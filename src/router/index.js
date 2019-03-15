@@ -27,6 +27,8 @@ export default new Router({
       path: '/book',
       component: Book
     }
+   
+
   ]
   
 })
